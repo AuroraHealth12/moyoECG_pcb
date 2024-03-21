@@ -1,4 +1,3 @@
 ## moyoECG device PCB version 4
 
-PCB design in KiCAD. The main difference vs previous versions is that power is controlled via button, and slider switch is used only for long storage / shipping (and also to reset the firmware if something went really wrong).
-
+The PCB design in KiCAD has been updated with a notable change: power control now operates through a button, while the slider switch is exclusively designated for extended storage or shipping purposes in contrast to previous versions.
